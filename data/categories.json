@@ -2,31 +2,37 @@
   {
     "id": "01",
     "title": "Accounting",
+    "total_Lecture": 5,
     "img": "https://i.ibb.co/6FffFpX/56220.jpg"
   },
   {
     "id": "02",
     "title": "Math",
+    "total_Lecture": 4,
     "img": "https://i.ibb.co/rdxjSYC/2319710.jpg"
   },
   {
     "id": "03",
     "title": "Physics",
+    "total_Lecture": 6,
     "img": "https://i.ibb.co/71nZFng/34.jpg"
   },
   {
     "id": "04",
     "title": "Chemistry",
+    "total_Lecture": 5,
     "img": "https://i.ibb.co/PWmKZ2W/3887070-11560.jpg"
   },
   {
     "id": "05",
     "title": "Finance & Banking",
+    "total_Lecture": 2,
     "img": "https://i.ibb.co/JRCMDgz/finance.jpg"
   },
   {
     "id": "06",
     "title": "General Knowledge",
+    "total_Lecture": 2,
     "img": "https://i.ibb.co/x24hWf7/international-day-literacy-concept-with-learning-tools.jpg"
   }
 ]
